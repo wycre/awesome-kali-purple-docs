@@ -1,56 +1,37 @@
 {
   "main": {
-    "id": "2e9225e34664efd4",
+    "id": "66562d3bdba13aaf",
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "2bb86700ec611329",
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "85ac46a39b2d5d6f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "2d8837e6263008e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1243752a4df710bb",
+    "id": "944c98d4b2614576",
     "type": "split",
     "children": [
       {
-        "id": "8a4c81639dc8783e",
+        "id": "7290d093603c53e6",
         "type": "tabs",
         "children": [
           {
-            "id": "b77831b90dd9f87b",
+            "id": "2767abcff211b220",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +43,7 @@
             }
           },
           {
-            "id": "0829eb50dbb8a2b3",
+            "id": "9a1a5e5890922b83",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +60,7 @@
             }
           },
           {
-            "id": "436d75c49c949463",
+            "id": "b627e1a7b353081e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,20 +76,19 @@
     "width": 300
   },
   "right": {
-    "id": "ba1ec06a672fb227",
+    "id": "4749addf81a49090",
     "type": "split",
     "children": [
       {
-        "id": "6cea78168fbf9ccd",
+        "id": "774fb73ada8dcbb9",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa5a4c073617928",
+            "id": "8d0f5628560c2afb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,25 +98,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "5acb7020384970a8",
+            "id": "5c60d95e777c2848",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "f850ba7e9e699bea",
+            "id": "3c5471cb53eebe4a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,15 +128,13 @@
             }
           },
           {
-            "id": "2d9129bb8dcf7983",
+            "id": "ffbf6291e76b75c8",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline"
             }
           }
         ]
@@ -174,15 +151,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "2d8837e6263008e3",
-  "lastOpenFiles": [
-    "category-folder/Some note.md",
-    "category-folder/index.md",
-    "index.md",
-    "category-folder"
-  ]
+  "active": "85ac46a39b2d5d6f",
+  "lastOpenFiles": []
 }
