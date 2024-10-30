@@ -1,9 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: Home
 ---
 
-Hello world!
-
-Write some words here!
-
-Pages to come here
+Currently in development.
