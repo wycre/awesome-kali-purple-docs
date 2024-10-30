@@ -1,14 +1,13 @@
-# Obsidian / Quartz / GitHub Pages Template
+# Awesome Kali Purple Docs
 
-Deployed URL: https://defenderofbasic.github.io/obsidian-quartz-template
+https://wycre.github.io/awesome-kali-purple-docs/
 
-Template for hosting your Obsidian notebook on GitHub pages with CI deployment. 
+Advanced documentation for the installation and setup of Kali Purple and the 'SOC in-a-box' reference architecture. 
 
-## Basic setup
+This site was made using [DefenderOfBasic/obsidian-quartz-template](https://github.com/DefenderOfBasic/obsidian-quartz-template) (MIT License)
+The text content of the website (located in `source/content`) is licensed under CC BY-SA 4.0
 
-Full tutorial with screenshots & videos: https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1. 
 
-It's basically (1) fork this (2) go to repo's "Settings" > "Pages", Under "Build and Deployment" select GitHub Actions. Then go to "Actions" and enable GitHub actions for your fork. Edit the pages in [source/content](./source/content) with Obsidian or any text editor. It generates HTML using [Quartz](https://github.com/jackyzha0/quartz). To generate the HTML locally, run `npx quartz build --serve` in `./source/`
 
 ## Raw HTML pages
 
