@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:installation-guides  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431401
+      }
+    },
+    {
+      "query": "path:tool-setup-guides  ",
+      "color": {
+        "a": 1,
+        "rgb": 13182156
+      }
+    },
+    {
+      "query": "path:/",
+      "color": {
+        "a": 1,
+        "rgb": 5431008
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -2.3,
+  "nodeSizeMultiplier": 0.993229166666667,
+  "lineSizeMultiplier": 1.325,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 11.9791666666667,
+  "linkStrength": 0.760416666666667,
+  "linkDistance": 500,
+  "scale": 0.6666666666666666,
+  "close": true
+}

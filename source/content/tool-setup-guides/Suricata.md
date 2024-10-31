@@ -1,3 +1,10 @@
+---
+tags:
+  - general-information
+  - setup-guide
+  - dev/incomplete
+---
+
 Suricata is a network Intrusion Detection/Prevention System and network security monitoring engine. It is installed in [[Byzantium Install Guide|Byzantium]] by default.
 
 The settings for Suricata can be found in the OPNsense web portal under Services > Intrusion Detection. OPNsense provides additional documentation on the use of Suricata [here](https://docs.opnsense.org/manual/ips.html#)

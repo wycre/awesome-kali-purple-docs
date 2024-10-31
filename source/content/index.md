@@ -35,10 +35,10 @@ In general, use the hypervisor that you/your organization is most familiar with.
 
 ## How to Start
 - [[installation-guides/index|Installation Guides]]
+- [[tool-setup-guides/index|Tool Setup Guides]]
 - [[Remote Management]]
 - [[User Accounts]]
 	- [[Domain Joining]] (https://www.redhat.com/en/blog/linux-active-directory)
-- [[Kali Purple Types]]
 
 ## Included Tools
 There are over 100 defensive tools including:

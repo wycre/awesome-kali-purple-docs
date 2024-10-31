@@ -1,3 +1,10 @@
+---
+tags:
+  - general-information
+  - setup-guide
+  - dev/incomplete
+---
+
 Squid is a caching and forwarding web proxy that supports HTTP, HTTPS, FTP, DNS, and more.
 Its also possible to enable transparent proxying, which does not require client interaction or setup to work.
 

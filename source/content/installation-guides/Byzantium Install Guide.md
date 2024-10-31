@@ -1,3 +1,9 @@
+---
+tags:
+  - installation-directions
+  - setup-guide
+---
+
 The Byzantium server acts as the barrier between the WAN and LAN in the [Kali Purple Reference Architecture](https://gitlab.com/kalilinux/kali-purple/documentation/-/raw/main/pictures/Kali-Purple-03-Architecture.png).
 
 ## Network Interfaces
