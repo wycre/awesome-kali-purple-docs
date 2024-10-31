@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "2d8837e6263008e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,11 +163,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "category-folder/Some note.md",
-    "category-folder/index.md",
+    "tool-setup-guides",
+    "installation-guides/index.md",
+    "installation-guides/Byzantium Install Guide.md",
     "index.md",
-    "category-folder"
+    "SOC In-A-Box.md",
+    "installation-guides/Some note.md",
+    "Kali Purple Types.md",
+    "tool-setup-guides/OPNsense.md",
+    "tool-setup-guides/Squid.md",
+    "tool-setup-guides/Suricata.md",
+    "Virtualization.md",
+    "Introduction.md",
+    "Screenshots/Pasted image 20241027172436.png",
+    "Screenshots/Pasted image 20241027172022.png",
+    "Screenshots/Pasted image 20241027125124.png",
+    "Screenshots/Pasted image 20241027124418.png",
+    "Screenshots/Pasted image 20241027124054.png",
+    "Screenshots/Pasted image 20241027124008.png",
+    "Screenshots/Pasted image 20241027123931.png",
+    "Screenshots/Pasted image 20241027123821.png",
+    "Screenshots/Pasted image 20241027123727.png",
+    "Screenshots/Pasted image 20241027123545.png",
+    "Screenshots",
+    "installation-guides"
   ]
 }
