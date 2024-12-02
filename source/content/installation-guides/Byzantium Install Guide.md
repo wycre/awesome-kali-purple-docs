@@ -7,7 +7,7 @@ tags:
 The Byzantium server acts as the barrier between the WAN and LAN in the [Kali Purple Reference Architecture](https://gitlab.com/kalilinux/kali-purple/documentation/-/raw/main/pictures/Kali-Purple-03-Architecture.png).
 
 ## Network Interfaces
-Because Byzantium acts as a firewall, it is important that it is connected to both the LAN and WAN networks. The reference architecture also recommends making a "Secure Server Net" (SSN) for [[Violet]], [[Purple]], and [[Eminence]], then connecting Byzantium to these SSNs.
+Because Byzantium acts as a firewall, it is important that it is connected to both the LAN and WAN networks. The reference architecture also recommends making a "Secure Server Net" (SSN) for [[Violet Install Guide|Violet]], [[Purple Install Guide|Purple]], and [[Eminence Install Guide|Eminence]], then connecting Byzantium to these SSNs.
 
 These network interfaces can be physical interfaces if you are running Byzantium on bare metal, or virtual networks provided by your hypervisor. Before you install Byzantium, you must have a WAN and LAN interface installed on the machine, virtual or otherwise.
 

@@ -9,7 +9,7 @@ Planned Articles:
 - [ ] Violet Install/Setup Guide
 - [ ] Purple Install/Setup Guide
 - [ ] Eminence Install/Setup Guide
-- [ ] Ecosystem/Virtualization Guides
+- [ ] Ecosystem/[[Virtualization]] Guides
 - [ ] User Guides
 	- [ ] Elastic Stack
 	- [ ] GVM

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "user-guides/index.md",
+                "file": "tool-setup-guides/Elastic Stack.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Elastic Stack"
             }
           }
         ]
@@ -166,31 +166,33 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Virtualization.md",
+    "Screenshots/Pasted image 20241201143223.png",
+    "tool-setup-guides/Elastic Stack.md",
+    "Screenshots/Pasted image 20241201150359.png",
+    "Screenshots/Pasted image 20241201150216.png",
+    "Screenshots/Pasted image 20241201145333.png",
+    "Screenshots/Pasted image 20241201145220.png",
+    "Screenshots/Pasted image 20241201145127.png",
+    "Screenshots/Pasted image 20241201143225.png",
+    "Pasted image 20241201143152.png",
+    "tool-setup-guides/OPNsense.md",
     "tool-setup-guides/Suricata.md",
+    "Screenshots/Pasted image 20241201132330.png",
+    "Screenshots/Pasted image 20241201143000.png",
+    "installation-guides/Purple Install Guide.md",
+    "tool-setup-guides/index.md",
+    "installation-guides/Byzantium Install Guide.md",
+    "installation-guides/index.md",
+    "index.md",
+    "Virtualization.md",
+    "user-guides/index.md",
     "tool-setup-guides/Squid.md",
     "SOC In-A-Box.md",
-    "user-guides/index.md",
-    "tool-setup-guides/index.md",
-    "index.md",
-    "tool-setup-guides/OPNsense.md",
-    "installation-guides/index.md",
-    "installation-guides/Byzantium Install Guide.md",
     "user-guides",
     "Kali Purple Types.md",
     "tool-setup-guides",
     "installation-guides/Some note.md",
     "Introduction.md",
-    "Screenshots/Pasted image 20241027172436.png",
-    "Screenshots/Pasted image 20241027172022.png",
-    "Screenshots/Pasted image 20241027125124.png",
-    "Screenshots/Pasted image 20241027124418.png",
-    "Screenshots/Pasted image 20241027124054.png",
-    "Screenshots/Pasted image 20241027124008.png",
-    "Screenshots/Pasted image 20241027123931.png",
-    "Screenshots/Pasted image 20241027123821.png",
-    "Screenshots/Pasted image 20241027123727.png",
-    "Screenshots/Pasted image 20241027123545.png",
     "Screenshots",
     "installation-guides"
   ]
