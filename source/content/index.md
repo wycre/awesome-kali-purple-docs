@@ -1,9 +1,10 @@
 ---
-title: Homepage
+title: Awesome Kali Purple Docs
 ---
 Awesome Kali Purple Docs aims to revamp the [existing Kali Purple documentation](https://gitlab.com/kalilinux/kali-purple/documentation/-/wikis/home) to make it easier for those new to the ecosystem.
 
 This documentation is incomplete, many hyperlinks may point towards pages that do not exist yet and some pages are blank. Contributions to this project would be greatly appreciated.
+
 Planned Articles:
 - [x] Byzantium Install/Setup Guide
 - [ ] Violet Install/Setup Guide
@@ -14,6 +15,7 @@ Planned Articles:
 	- [ ] Elastic Stack
 	- [ ] GVM
 	- [ ] OpenCTI
+	- [ ] etc...
 
 
 ---
