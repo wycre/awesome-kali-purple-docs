@@ -15,8 +15,8 @@ After [[Virtualization|setting up your environment]], you will want to start set
 
 ## Types of Kali Purple
 ### 100 - Identify - Kali [[Violet Install Guide|Violet]]
-- [[OpenCTI]]
 - [[Greenbone Vulnerability Manager]]
+- [[OpenCTI]]
 ### 200 - Protect - [[Byzantium Install Guide|Byzantium]]
 - [[OPNsense]]
 - [[Suricata]]

@@ -36,6 +36,7 @@ In general, use the hypervisor that you/your organization is most familiar with.
 [[Virtualization|Read More...]]
 
 ## How to Start
+- [[Step-By-Step Guide]]
 - [[installation-guides/index|Installation Guides]]
 - [[tool-setup-guides/index|Tool Setup Guides]]
 - [[Remote Management]]

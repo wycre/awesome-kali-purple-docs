@@ -5,6 +5,7 @@ tags:
   - installation-directions
   - rewrite-planned
 ---
+# This guide no longer works, a rewrite is planned
 ## Installation
 The Elastic stack has several components that each have their own installation guides.
 
